@@ -10,7 +10,7 @@
   />
 </p>
 
-![GitHub followers](https://img.shields.io/github/followers/Anmol53?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Anmol53?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Anmol53.Anmol53) 
+![GitHub followers](https://img.shields.io/github/followers/Anmol-53?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Anmol-53?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Anmol-53.Anmol-53) 
 
 ## About Me :
 
